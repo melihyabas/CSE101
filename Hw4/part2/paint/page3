@@ -1,0 +1,89 @@
+<html>
+
+<body  background="shapes_squares_red_paint_20093_1920x1080.jpg">
+
+
+
+<b><h1 align="center"><font color="white">Özetle Paint</h1></b><br>
+
+<table border="0" align="center">
+<tr>
+<td>
+<p>
+<div align="center"><img src="billgates.jpg" width="500" heigh"750"></div>
+</p>
+</td>
+<td>
+
+<div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/RlBteaG1Muo" frameborder="0" allowfullscreen></iframe></div>
+
+
+
+
+<p align="justify">
+Resim menüsü şu özellikleri sunar: Döndür/Çevir, Uzat/Eğ, Renkleri ters çevir, Öznitelikler, Resmi temizle ve Donuk çiz. Renkler menüsü kullanıcıya renkleri düzenleme imkânı sunar(Renkler menüsü altında). Renkleri Düzenle kutusu, 48 renklik bir paleti ve düzenlenebilir 12 özel renk seçebilme imkânı olan tekbiçim (standart) Windows renk seçicisini görünür kılar. "Özel Renk Tanımla" butonuna tıklandığında özel renklerin imleçle seçilebilmesini sağlayan renk çemberinin kare sürümü görünür. Bu ekranda renklerin: Ton/Doygunluk/Parlaklık ve Kırmızı/Yeşil/Mavi özellikleri değiştirilebilir.
+</p>
+<p align="justify">
+Çalışma alanında 28 renk kutusu vardır. Bu kutulardaki renkler şunlardır: Siyah, Beyaz, Gri, Gümüş, Bordo, Kırmızı, Zeytin yeşili, Sarı, Koyu yeşil, Yeşil, Deniz mavisi (Cam göbeği), Açık mavi, Lacivert, Mavi, Mor, Kızılımsı mor, Donuk sarı, Limon sarısı, Barut rengi, Kelly green, Dark Carolina blue, Akuamarin, Gece mavisi, Menekşe, Eflatun, Mercan, Kahverengi, Turuncu (İngilizce özgün adı:Pumpkin orange)
+
+</p>
+<p align="justify">
+
+Paint ayrıca yardım dosyasında değinilmemiş birkaç gizli özelliğe daha sahiptir: damga modu, iz modu, düzgün şekiller, hareketli resimler ve ilginç bir de fırça. Damga kipinde, kullanıcı resmin bir bölümünü seçip klavyeden Ctrl tuşuna basılı tutarak seçili kısmı bir başka yere taşıyabilir. Bu özellikte seçili kısım kopyalanıp, taşınan kısma bir kopyası oluşturulur. Ctrl tuşu basılı tutularak birçok defa aynı işlem tekrarlanabilir. İz modunda da aynı yöntem uygulanır fakat bu sefer klavyeden Shift tuşuna basılı tutulur.
+</p>
+
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left"><font color="white"><i>
+Microsoft Paint ile yapılmış bir Bill Gates karikatürü 
+</td>
+</tr>
+</table>
+
+<p align="justify"><font color="black">
+
+Kullanıcılar düz çizgi aracına ihtiyaç duymadan, klavyeden Shift tuşuna basılı tutarak kalem aracı ile dikey, yatay ve çapraz olarak çizgi çekebilme imkânına sahiptir. Ayrıca çizgi kalınlığını da değiştirebilirler, bunun için Ctrl tuşuna basılı tutarken + ve - tuşlarına basmak yeterlidir. Bir resmi kesmek veya resmin belirli bir kısmını (örneğin fazla beyaz kısmı) atmak için çizim alanının en alt sağ kısmındaki mavi noktacığı hareket ettirmek yeterlidir. Bu şekilde çerçeve boyutu değiştirilebilir. Renkler ise Ctrl + I tuşuna aynı anda basılarak tersine çevrilebilir. Bunların dışında kullanıcılar mükemmel daireler ve kareler çizmek için elips veya dikdörtgen aracını seçtikten sonra klavyeden Shift tuşuna basılı tutarak çizimlerini yapabilirler.
+
+</p>
+
+<table align="center" border="0">
+<tr>
+<td>
+<div align="center"><img src="597ebcfac9de3d0cd84ea9e3.jpg" width="500" heigh"750"></div>
+</td>
+</tr>
+<tr>
+<td align="center"><font color="white" size="3"><i>
+Microsoft Paint ile yapılan başka bir çalışma.
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+</table>
+</table>
+<table border="1" align="center">
+<tr>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/Page1">Ana Sayfa</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page2">2</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page3">3</a>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,174 @@
+<html>
+<b><h1 align="center"><font color="white">Microsoft Paint Nedir?</h1></b><br>
+<body  background="shapes_squares_red_paint_20093_1920x1080.jpg">
+
+<p align="justify"><font color="black">
+
+Paint, Windows'un ilk sürümünden beri hemen hemen hepsinde bulunan basit bir çizim uygulamasıdır. Genelde Microsoft Paint adı ile kullanılır.Bu yazılım, Windows bitmap (.bmp uzantılı 24-bit, 256 renk, 16 renk, ve siyah-beyaz), JPEG, GIF (Windows 98 sürümü ve bir Windows 95 güncellemesi ile şeffaflığı desteklemeye başlamıştır ama hareketlilik özelliği Windows Vista sürümde de mevcut değildir.), PNG (alfa kanalı özelliği olmadan) ve TIFF (çoklu sayfa olmadan) dosya türlerini açabilir ve bu türlerde dosyayı kaydedebilir. Renkli kipi ve siyah-beyaz kipi vardır ama gri ton kipi yoktur.
+
+</p>
+
+<b><h2 align="center"><font color="white">Paint'in Evrimi</h2></b><br>
+
+<p align="justify"><font color="black">
+
+
+Paint yazılımının ilk sürümü, ilk Windows işletim sistemi olan Windows 1.0 ile ortaya çıkmıştır. Windows 3.0 işletim sistemi ile yazılımın adı Paintbrush olarak değiştirilmiş, ardından Windows 95 işletim sisteminden itibaren tekrar Paint ismine geri dönülmüştür. Bu sürüm yalnızca MSP ve BMP dosya uzantılarını desteklemekteydi. Daha sonra Paint yazılımının yeni sürümlerinde PCX ve RLE dosya biçimleriyle birlikte bu iki dosya tipi desteği de kaldırıldı. Eski sürümler PNG dosya tipini ne açıyor ne de düzenleyebiliyordu bununla birlikte GIF, JPEG ve TIFF dosya tiplerini açabiliyordu.
+
+<b><h3 align="center"><font color="white">Özellikleri ve Yapabildikleri</h3></b><br>
+
+
+
+
+
+
+
+
+<table border="1" >
+<tr><font color="white">
+<th>Resim Çizebilme</th>
+<th>Ekran Görüntüsünü Alabilme</th>
+<th>Resim Formatını değiştirebilme</th>
+<th>Resim boyutunu düşürebilme</th>
+<th>Resim birleştirebilme</th>
+<th>Resim renk ayarlarını değiştirebilme</th>
+<th>Resim üzerine text(yazı) ekleyebilme</th>
+<tr>
+<td>Painti açın ve sağdaki menü ile fıçanızı renk menüsü ile rengi seçin.Resim 
+yaparken sağ manüdeki şekillerden yararlanabilisiniz.
+</td>
+
+<td>Ekranın görüntüsünü almak istediğiniz anda klavyenizdeki ''Prt Scr'' yani Print 
+Screen tuşuna basınız.Daha sonra Paint programını açın ve yapıştırın(ctrl+v).
+Print Screen tuşuna bastığınız andaki ekranın görüntüsü resim olarak çıkacaktır.
+Daha sonra Farklı Kaydet yaparak resminizi kaydediniz.
+</td>
+<td>  Painti açalım daha sonra ''Dosya>Aç'' seçeneğinde resim açalım.Bu dosyayı 
+''Dosya>Farklı Kaydet'' seçeneğinden istediğiniz formatta kayıt edebilirsiniz.
+
+</td>
+<td> 
+Bu özellik aslına paint özelliği değil.Ancak Paint kullanmayı iyi bilenler bu özelliği bilir.
+Diyelim ki elinizde büyük Byte ye sahip bir resim var.Paintten açın ve ''Dosya>Farklı
+Kaydet'' yapın resiminizin boyutu baya bir küçülsün.Ancak bmp gibi zor dosyalar 
+şeklinde kaydetmeniz bazı resimlerin renk oranını bozabilir.Gene en iyisi JPG.
+ </td>
+<td> 
+Resiminizi ''Dosya>Aç'' açtıktan sonra rsim alanını büyütüp istediğiniz resimi 
+''Düzen>Dosyadan Yapıştır'' dan ekleyebilir ve istediğiniz yere koyabilirsiniz.
+ </td>
+<td> 
+İstediğiniz resimi açın daha sonra istediğiniz renkte istediğiniz yeri boyayın.
+ </td>
+<td>Hangi resim üzerine yazı yazacaksanız o resmi açın.Daha sonra istediğiniz yere 
+''Sol çubuktaki büyük A simgesine'' basarak yazınızı yazınız.Yazı fontunu 
+''Görünüm>Metin Araç Çubuğu'' dan değiştirebilirsiniz.
+</td>
+</tr>
+<tr>
+<td colspan="6" align="center">
+
+
+
+
+
+<tr align="center">
+<th colspan="2">Genel Araçlar</th>
+<th colspan="2">Çizim Araçları</th>
+<th colspan="3">Şekiller</th>
+
+</tr>
+
+<tr>
+<td colspan="2">Serbest Şekil Seçimi</td>
+<td colspan="2">  Çizgi  </td>
+<td colspan="3">  Kıvrım </td>
+
+</tr>
+
+
+<tr>
+<td colspan="2">Seç</td>
+<td colspan="2">Kalem</td>
+<td colspan="3">  Dikdörtgen   </td>
+
+</tr>
+<tr>
+<td colspan="2">Silgi/Renk Silicisi</td>
+<td colspan="2">Fırça</td>
+<td colspan="3">Çokgen</td>
+
+</tr>
+<tr>
+<td colspan="2">Renkle Doldur</td>
+<td colspan="2">Püskürtme Kabı</td>
+<td colspan="3">Elips</td>
+
+</tr>
+<tr>
+<td colspan="2">Renk Seç</td>
+<td colspan="2">Metin</td>
+<td colspan="3">Yuvarlatılmış Dikdörtgen</td>
+</tr>
+
+<tr>
+<td colspan="2">Büyüteç</td>
+<td colspan="2">-</td>
+<td colspan="3">-</td>
+
+</tr>
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+<table border="0" align="center">
+<tr>
+<td>
+<p>
+<div align="center"><img src="paint-22-600x450.jpg" width="500" heigh"750"></div>
+</p>
+</td>
+<td>
+<div align="center"><img src="e637b8.jpg" width="500" heigh"750"></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center"><font color="white"><i>
+Paint ile yapılmış bazı resimler.
+</td>
+</tr>
+</table>
+
+
+
+
+
+<table border="1" align="center">
+<tr>
+
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/Page1">Ana Sayfa</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page2">2</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page3">3</a>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

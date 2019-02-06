@@ -1,0 +1,89 @@
+<html>
+
+
+
+<b><h1 align="center"><font color="white">Efsanevi Windows Uygulaması "Paint"</h1></b><br>
+<body background="shapes_squares_red_paint_20093_1920x1080.jpg">
+<p>
+<table align="center" border="0">
+<tr>
+<td>
+<div align="center"><img src="paintt.png" width="500" heigh"750"></div>
+</td>
+</tr>
+<tr>
+<td align="center"><font color="white" size="3"><i>
+Paint ile yapılmış Paint'in kaldırılmasını anlatan bir karikatür.
+</td>
+</tr>
+</table>
+</p>
+<table border="0" align="center">
+<tr>
+<td><font color="white" size="6">
+Ad:
+</td>
+<td><font size="6">
+Melih
+</td>
+</tr>
+
+<tr>
+<td><font color="white" size="6">
+Soyad:
+</td>
+<td><font size="6">
+YABAŞ
+</td>
+</tr>
+
+<tr>
+<td><font color="white" size="6">
+Numara:
+</td>
+<td><font size="6">
+161044072
+</td>
+</tr>
+
+
+
+
+
+</table>
+</table>
+
+
+
+<table align="center" border="0">
+<tr>
+<td>
+<div align="center"><img src="paintornek" width="500" heigh"750"></div>
+</td>
+</tr>
+<tr>
+<td align="center"><font color="white" size="3"><i>
+Eski sürümlerden örnek bir paint görüntüsü.
+</td>
+</tr>
+</table>
+
+
+
+
+<table border="1" align="center">
+<tr>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/Page1">Ana Sayfa</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page2">2</a>
+</td>
+<td bgcolor="white"><font size="5" color="brown">
+<a href="file:///home/melih/Masa%C3%BCst%C3%BC/paint/page3">3</a>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

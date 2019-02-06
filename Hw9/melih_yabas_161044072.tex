@@ -1,0 +1,39 @@
+\documentclass[12pt]{article}\usepackage[utf8]{inputenc}
+
+\title{HW 9 Latex Kısmı}
+\date{2017-11-28}
+\author{Melih Yabaş}
+
+\begin{document}
+	\maketitle
+	\newpage
+\section{Pekiştirmeli Öğrenme}
+\flushbottom
+
+	Pekiştirmeli öğrenme, yapay zekada kullanılan makine öğreniminin bir dalıdır. Davranışlarla ilgilenir. Yapılan davranışlardan alınan dönütlere ödül denir. Bu doğrultuda en yüksek ödülü almak için gereken davranış yapılır.
+ Pekiştirmeli öğrenme genel bir kavram olduğu için çok fazla alanda kullanılabilir.
+Girdi-çıktı eşleşmelerinin doğru olmaması yönüyle gözetimli öğrenme alanından ayrılır.
+Diğer makine öğrenmesi alanlarından farkı amaca yönelik çalışmasıdır. Bunu kullandığı dinamik programlama tekniklerine bakarak anlayabiliriz. Dinamik programlamada bir sorun küçük parçalara ayrılıp çözülür, tekrarlarda yeniden çözüm yapılmaz ve çözüm ilk durumundan bağımsızdır.
+Makine öğrenmesinde ortam modellemesi Markov Karar Süreci kullanılarak yapılır. Pekiştirmeli öğrenmede markov karar süreci kesin olmayan yöntemlerle ve hazırlık yapmadan kullanılır.
+Bir köpeğe eğitim verilirken istenileni yapması karşılığında mama verilmesi ve köpeğin o hareketi yaptığında mama alacağını düşünmesi pekiştirmeli öğrenmeye benzetilebilir.
+
+
+\section{Görüntü İşleme, 2D ve 3D Grafik Teknikleri}
+\flushbottom
+Bir görüntüyü sanal ortamda ele alarak görüntü ile bazı gerekli işlemleri yapmak için bu üç teknik kullanılmaktadır. Örneğin bir görüntünün çözünürlülüğünü artırmak için bu teknikleri kullanabiliriz. Bir çok cihazda bulunan yüz tanıma sistemi de yine bu teknikler kullanılarak çalıştırılmaktadır. 
+Görüntü işleme kullanılırken önce kamera vb. bir cihaz yardımıyla görüntü alınır. Daha sonra alınan görüntü analiz edilir. Sonrasında 2D veya 3D grafik teknikleri kullanılarak görüntü sanal ortamda üretilir.
+	\subsection{Farkları}
+	Görüntü işleme, görüntünün analizi için kullanılır. 2D grafik tekniği 2 boyutlu şekilleri dönüştürmek için, 3D grafik tekniği üç boyutlu şekilleri resimlere dönüştürmek için kullanılır.
+
+	\subsection{3D Grafik İşleme Tekniğinin Adımları}
+
+3D grafik işleme tekniği 3 temel adımdan oluşur: modelleme, işleme ve görüntüleme.
+
+ Modelleme adımında 3D grafik sahnesi dijital ortamda kodlanır. Yani bilgisayar içinde gerçekte olmayan bir tasarım oluşturulur.
+İşleme adımında oluşturulacak nesnelerin özel bir konumda bir cihaz ile nasıl görüneceği hesaplanarak sahnenin 2 boyutlu görüntüsü üretilir.Bu adında analitik geometriden bazı matematiksel işlemler yapılmaktadır.
+Bu adımlarda projeksiyon denilen araçlar kullanılır.
+Son görüntünün kapsamını belirleyen projeksiyon düzleminin kısıtlanmış kısmı, görüntü penceresidir.
+Görüntüleme adımında oluşturulan görüntü artık kullanıma hazır hale gelir. Son görüntünün her pixeli hesaplanmıştır.
+
+
+\end{document}
